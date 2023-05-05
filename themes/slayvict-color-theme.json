@@ -427,7 +427,8 @@
       "name": "Operators",
       "scope": ["keyword.operator", "keyword.other.arrow", "keyword.control.@"],
       "settings": {
-        "foreground": "#adb1c2"
+        "foreground": "#adb1c2",
+        "fontStyle": ""
       }
     },
 

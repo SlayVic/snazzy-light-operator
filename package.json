@@ -2,7 +2,7 @@
   "name": "snazzy-light-operator",
   "displayName": "Snazzy Light Operator",
   "description": "fork of snazzy light",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SlayVict",
   "repository": {
     "type": "git",
