@@ -1,8 +1,21 @@
 {
   "name": "snazzy-light-operator",
   "displayName": "Snazzy Light Operator",
-  "description": "fork of snazzy light with operator",
+  "description": "fork of snazzy light",
   "version": "0.0.1",
+  "publisher": "SlayVict",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlayVic/snazzy-light-operator"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "snazzy",
+    "snazzy light",
+    "snazzy light operator",
+    "operator"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
