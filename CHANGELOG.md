@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "snazzy-light-italik" extension will be documented in this file.
+All notable changes to the "snazzy-light-operator" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Released]
 
-## [Unreleased]
-
-- Initial release
+- Add italic to some types
+- Slightly change colors of original snazzy light
