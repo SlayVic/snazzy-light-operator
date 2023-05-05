@@ -4,7 +4,7 @@ All notable changes to the "snazzy-light-operator" extension will be documented 
 
 ## [Released]
 
-[0.0.2]
+[0.0.3]
 
 - fix that operators was italic
 
