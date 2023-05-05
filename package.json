@@ -1,0 +1,21 @@
+{
+  "name": "snazzy-light-operator",
+  "displayName": "Snazzy Light Operator",
+  "description": "fork of snazzy light with operator",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Snazzy Light Operator",
+        "uiTheme": "vs",
+        "path": "./themes/slayvict-color-theme.json"
+      }
+    ]
+  }
+}
