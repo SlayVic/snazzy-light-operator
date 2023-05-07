@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "snazzy-light-operator" extension will be documented in this file.
+All notable changes to the "snazzy-solaris-operator" extension will be documented in this file.
 
 ## [Released]
 

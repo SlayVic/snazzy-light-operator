@@ -1,7 +1,7 @@
 {
   "name": "snazzy-light-operator",
-  "displayName": "Snazzy Light Operator",
-  "description": "fork of snazzy light",
+  "displayName": "Snazzy Solaris",
+  "description": "fork of snazzy solaris",
   "version": "0.0.3",
   "publisher": "SlayVict",
   "repository": {
@@ -12,8 +12,10 @@
     "theme",
     "light theme",
     "snazzy",
+    "snazzy solaris",
     "snazzy light",
     "snazzy light operator",
+    "snazzy solaris operator",
     "operator"
   ],
   "engines": {
@@ -25,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snazzy Light Operator",
+        "label": "Snazzy Solaris Operator",
         "uiTheme": "vs",
         "path": "./themes/slayvict-color-theme.json"
       }

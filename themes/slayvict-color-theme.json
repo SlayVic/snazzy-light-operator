@@ -1,27 +1,41 @@
 {
-  "name": "Snazzy Light",
+  "name": "Snazzy Solaris",
   "type": "light",
   "colors": {
     // General
-    "focusBorder": "#09a1ed",
-    "foreground": "#686968",
+    "focusBorder": "#2dae58",
+    "foreground": "#696868",
     "selection.background": "#2dae5844",
-    "editorGroup.emptyBackground": "#f3f4f5",
+    "editorGroup.emptyBackground": "#f5efe4",
     "editor.selectionBackground": "#2dae5822",
-    "menu.selectionBackground": "#e9eaeb",
+    "menu.selectionBackground": "#d8e8e9",
     "menu.selectionForeground": "#686968",
-    "menu.background": "#fafbfc",
-    "menubar.selectionBackground": "#e9eaeb",
+    "menu.background": "#fff6e7",
+    "menubar.selectionBackground": "#fff6e7",
     "menubar.selectionForeground": "#686968",
-    "editor.background": "#fafbfc",
+    "editor.background": "#fff8ec",
     "editor.foreground": "#565869",
     "editorWhitespace.foreground": "#adb1c255",
 
+    // Editor Widget
+    "editorWidget.border": "#2dae58",
+    "editorWidget.background": "#f5efe4",
+
+    // "toolbar.hoverBackground": "#ff0000",
+    // "toolbar.activeBackground": "#ff0000",
+    // "toolbar."
+
     // Title bar
-    "titleBar.activeBackground": "#f3f4f5",
+    "titleBar.activeBackground": "#f5efe4",
 
     // Tabs
     "tab.activeBorderTop": "#2dae58",
+    "tab.inactiveBackground": "#f5efe4",
+    "editorGroupHeader.tabsBackground": "#f5efe4",
+
+    // Toolbar
+    "toolbar.activeBackground": "#35cf6850",
+    "toolbar.hoverBackground": "#35cf6850",
 
     // Select highlighting
     "editor.wordHighlightBackground": "#3652cf16",
@@ -35,7 +49,7 @@
     "editorOverviewRuler.findMatchForeground": "#13bbb7aa",
 
     // DocBlock highlighting
-    "editor.snippetTabstopHighlightBackground": "#adb1c23a",
+    "editor.snippetTabstopHighlightBackground": "#032ff73a",
 
     // Link highlighting
     "editorLink.activeForeground": "#35cf68",
@@ -54,15 +68,15 @@
     "debugToolBar.border": "#e9eaeb",
 
     // Sidebar
-    "sideBar.background": "#f3f4f5",
-    "sideBar.border": "#dedfe0",
-    "sideBarSectionHeader.background": "#e9eaeb",
-    "sideBarSectionHeader.border": "#dedfe0",
+    "sideBar.background": "#f5efe4",
+    "sideBar.border": "#eee6d8",
+    "sideBarSectionHeader.background": "#f3ebdc",
+    "sideBarSectionHeader.border": "#eee6d8",
 
     // Lists
-    "list.activeSelectionBackground": "#09a1ed",
+    "list.activeSelectionBackground": "#46b7ed",
     "list.activeSelectionForeground": "#ffffff",
-    "list.inactiveSelectionBackground": "#89b5cb33",
+    "list.inactiveSelectionBackground": "#96dafc33",
     "list.focusBackground": "#bce7fc99",
     "list.focusForeground": "#11658f",
     "list.hoverBackground": "#e9eaeb",
@@ -79,6 +93,8 @@
 
     // Settings
     "settings.modifiedItemIndicator": "#13bbb7",
+    "input.background": "#f5efe4",
+    "input.foreground": "#565869",
     "input.border": "#e9eaeb",
     "dropdown.border": "#e9eaeb",
 
@@ -101,7 +117,7 @@
     "statusBar.debuggingBorder": "#00a39f",
 
     // Activity bar
-    "activityBar.background": "#e7e8e6",
+    "activityBar.background": "#f3ebdc",
     "activityBar.foreground": "#2dae58",
     "activityBarBadge.background": "#09a1ed",
     "activityBar.inactiveForeground": "#68696888",
