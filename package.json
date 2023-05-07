@@ -2,7 +2,7 @@
   "name": "snazzy-light-operator",
   "displayName": "Snazzy Solaris",
   "description": "fork of snazzy solaris",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "publisher": "SlayVict",
   "repository": {
     "type": "git",
