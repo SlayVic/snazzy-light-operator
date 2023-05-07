@@ -4,6 +4,10 @@ All notable changes to the "snazzy-solaris-operator" extension will be documente
 
 ## [Released]
 
+[1.0.0]
+
+- now it's solaris theme
+
 [0.0.3]
 
 - fix that operators was italic
