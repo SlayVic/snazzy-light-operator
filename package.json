@@ -1,12 +1,12 @@
 {
-  "name": "snazzy-light-operator",
+  "name": "snazzy-solaris",
   "displayName": "Snazzy Solaris",
-  "description": "fork of snazzy solaris",
+  "description": "fork of snazzy light",
   "version": "1.0.0",
   "publisher": "SlayVict",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlayVic/snazzy-light-operator"
+    "url": "https://github.com/SlayVic/snazzy-solaris"
   },
   "keywords": [
     "theme",
