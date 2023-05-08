@@ -20,6 +20,8 @@
     // Editor Widget
     "editorWidget.border": "#2dae58",
     "editorWidget.background": "#f5efe4",
+    // "widget.border": "#0000",
+    "widget.shadow": "#00000020",
 
     // "toolbar.hoverBackground": "#ff0000",
     // "toolbar.activeBackground": "#ff0000",
@@ -65,7 +67,9 @@
     // Debugger
     "debugExceptionWidget.background": "#ffaeac33",
     "debugExceptionWidget.border": "#ff5c57",
-    "debugToolBar.border": "#e9eaeb",
+    // "debugToolBar.border": "#e9eaeb",
+    "debugToolBar.background": "#f5efe4",
+    // "dropdown.listBackground": "#ff0000",
 
     // Sidebar
     "sideBar.background": "#f5efe4",
@@ -96,7 +100,10 @@
     "input.background": "#f5efe4",
     "input.foreground": "#565869",
     "input.border": "#e9eaeb",
-    "dropdown.border": "#e9eaeb",
+
+    // Dropdowns
+    // "dropdown.border": "#e9eaeb",
+    "dropdown.background": "#f3ebdc",
 
     // Primary buttons
     "button.background": "#2dae58",
@@ -1028,6 +1035,32 @@
       "scope": ["source.reason support.property-value"],
       "settings": {
         "foreground": "#11658f"
+      }
+    },
+
+    // Python
+    {
+      "name": "Python: Function calls",
+      "scope": "source.python meta.function-call.python",
+      "settings": {
+        "foreground": "#09a1ed"
+        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Python: Function arguments",
+      "scope": "source.python meta.function-call.arguments.python",
+      "settings": {
+        "foreground": "#565869",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Python: Index name",
+      "scope": "source.python meta.indexed-name.python",
+      "settings": {
+        "foreground": "#13bbb7",
+        "fontStyle": "italic"
       }
     },
 
