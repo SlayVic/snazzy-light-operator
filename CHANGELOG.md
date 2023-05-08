@@ -4,6 +4,11 @@ All notable changes to the "snazzy-solaris-operator" extension will be documente
 
 ## [Released]
 
+[1.1.0]
+
+- change python colors
+- change color of debugging ui elements
+
 [1.0.0]
 
 - now it's solaris theme
