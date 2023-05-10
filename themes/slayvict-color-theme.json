@@ -16,6 +16,7 @@
     "editor.background": "#fff8ec",
     "editor.foreground": "#565869",
     "editorWhitespace.foreground": "#adb1c255",
+    "editor.lineHighlightBorder": "#f5efe4",
 
     // Editor Widget
     "editorWidget.border": "#2dae58",
@@ -1055,16 +1056,23 @@
         "fontStyle": ""
       }
     },
-    {
-      "name": "Python: Index name",
-      "scope": "source.python meta.indexed-name.python",
-      "settings": {
-        "foreground": "#13bbb7",
-        "fontStyle": "italic"
-      }
-    },
+    // {
+    //   "name": "Python: Index name",
+    //   "scope": "source.python meta.indexed-name.python",
+    //   "settings": {
+    //     "foreground": "#13bbb7",
+    //     "fontStyle": "italic"
+    //   }
+    // },
 
     // Rust Overrides
+    {
+      "name": "Rust: types",
+      "scope": ["source.rust entity.name.type"],
+      "settings": {
+        "foreground": "#2dae58"
+      }
+    },
     {
       "name": "Rust: Core functions",
       "scope": ["source.rust support.function.core.rust"],

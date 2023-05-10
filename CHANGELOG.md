@@ -4,6 +4,12 @@ All notable changes to the "snazzy-solaris-operator" extension will be documente
 
 ## [Released]
 
+[1.1.1]
+
+- update some colors for types in rust
+- update colors for Index name in python
+- change line highlight color
+
 [1.1.0]
 
 - change python colors
